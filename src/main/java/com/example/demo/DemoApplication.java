@@ -4,6 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+/*
+This is my first application
+*/
 public class DemoApplication {
 
 	public static void main(String[] args) {
